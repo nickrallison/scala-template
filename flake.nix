@@ -15,6 +15,7 @@
             packages = with pkgs; [
                 # Scala 
                 sbt
+                scala-cli
 
                 # Java
                 zulu8
